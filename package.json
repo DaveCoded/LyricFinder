@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://davecoded.github.io/LyricFinder",
+  "homepage": "https://davecoded.github.io/LyricFinder",
   "eslintConfig": {
     "extends": "react-app"
   },
